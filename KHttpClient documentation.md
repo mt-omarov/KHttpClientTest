@@ -243,4 +243,4 @@ while ($iterator->hasResponses()) {
     doSmth($chunk);
 }
 ```
-## Краткое описание проекта находится по [ссылке](https://git.miem.hse.ru/kaa/kaa/-/blob/CurlHttpClient/src/HttpClient/README.md)
+## Краткое описание проекта находится по [ссылке](https://github.com/mt-omarov/KHttpClientTest/blob/master/README.md)
