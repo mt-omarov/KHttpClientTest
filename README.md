@@ -55,4 +55,4 @@ KPHP пока не поддерживает генераторы, поэтому
 1. Создание объекта **StreamIterator.**.
 2. **Использование функциональности StreamIterator**: используются методы для получения информации о запросе в сочетании с curl_multi_exec().
 
-## Документация расположена по [ссылке](https://git.miem.hse.ru/kaa/kaa/-/blob/CurlHttpClient/src/HttpClient/KHttpClient%20documentation.md)
+## Документация расположена по [ссылке](https://github.com/mt-omarov/KHttpClientTest/blob/master/KHttpClient%20documentation.md)
